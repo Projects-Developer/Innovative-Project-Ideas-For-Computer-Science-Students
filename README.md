@@ -21,7 +21,7 @@ Innovative project ideas for computer science students Includes Source Code, PPT
 
 10 GIF Malware Detection Project	https://youtu.be/3JQ9uPETJCQ?si=5Jq5Bd1C3x_Bup6r
 
-Project include:
+### Project include:
 Synopsis
 
 PPT
@@ -36,14 +36,10 @@ Documents
 
 Report
 
-Need Code, Documents & Explanation video ?
+### Need Code, Documents & Explanation video ?
+### How to Reach me :
+### Mail : vatshayan007@gmail.com
+### WhatsApp: +91 9310631437 (Helping 24*7) CHAT
+### Website : https://www.finalproject.in/
+### Youtube Channel: https://www.youtube.com/@computerscienceproject
 
-How to Reach me :
-
-Mail : vatshayan007@gmail.com
-
-WhatsApp: +91 9310631437 (Helping 24*7) CHAT
-
-Website : https://www.finalproject.in/
-
-Youtube Channel: https://www.youtube.com/@computerscienceproject
